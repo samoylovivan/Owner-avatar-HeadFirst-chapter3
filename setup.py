@@ -1,3 +1,6 @@
+# Windows: C:\mymodules> py -3 setup.py sdist
+# UNIX: mymodules$ python3 setup.py sdist
+
 from setuptools import setup
 
 setup (
